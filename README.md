@@ -36,9 +36,10 @@ Submit a pull request to contribute code.
 
 
 🎉 Final Product
-Check out the chatbot in action! Below are snapshots of the final product:
-![final product](https://github.com/ARK1998/chatterbot/assets/96424387/2f9ed97a-2f01-42a6-939a-c1a9763b82c5)
-![final_product](https://github.com/ARK1998/chatterbot/assets/96424387/e70c0392-8dfd-430e-a633-8b0a7944ad73)
+
+<img width="358" height="576" alt="1" src="https://github.com/user-attachments/assets/f701e326-fedc-40c5-8bfc-42a3793ee598" />
+
+<img width="358" height="576" alt="2" src="https://github.com/user-attachments/assets/9d434e56-5721-4bc3-9422-41effde653a4" />
 
 
 📝 License
